@@ -2,7 +2,7 @@
 
 DIY Space Mouse / 3D Mouse
 
-[video](https://youtu.be/2fa0R8tfdhU)
+[Demo video](https://youtu.be/2fa0R8tfdhU)
 
 No build guide since it's literally just plugging a joystick and rotary encoder module into Arduino Pro Micro.
 
